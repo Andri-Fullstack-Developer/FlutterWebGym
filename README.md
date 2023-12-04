@@ -14,8 +14,8 @@ Name: 		Flutter gym basis mobile and web
 
 Credits:
 ------------------------------------
-github Mobile:      https://github.com/Andri-Fullstack-Developer/flutter-gym
-gitHub web:         https://github.com/Andri-Fullstack-Developer/FlutterWebGym
+- github Mobile:      https://github.com/Andri-Fullstack-Developer/flutter-gym
+- gitHub web:         https://github.com/Andri-Fullstack-Developer/FlutterWebGym
 
 Convert web:
 ---------------------------
